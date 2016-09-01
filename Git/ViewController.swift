@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 // modif 1
-// modif 3 - master
+// modif 3 - 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
